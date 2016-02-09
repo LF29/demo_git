@@ -1,0 +1,3 @@
+Repository utilisé à des fins d'éducation pour l'utilisation de Git et de GitHub
+
+@Copyright Lionel FOURNY as LF29
